@@ -3,6 +3,8 @@
 Proyect whose final goal is to automate betting strategies in different betting houses and guaranteeing mathematically a positive profitability by arbitrage.
 See https://en.wikipedia.org/wiki/Arbitrage
 
+##Functionality
+
 By now you can get profitable bets over 1% profitability (can be set to over 0% in code or any other value).
 
 In Telegram:
@@ -19,7 +21,7 @@ In Telegram:
 
 
 
-Problems to finish the project:
+##Problems to finish the project:
 
 1.- Benefits over 3% are rare and last just a short period time. Need of having real-time odds.
 
