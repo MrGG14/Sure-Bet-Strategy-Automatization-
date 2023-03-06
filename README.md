@@ -1,4 +1,4 @@
-# sure_bet_scrapping
+# Sure-Bet Strategy Automatization
 
 Proyect whose final goal is to automate betting strategies in different betting houses and guaranteeing mathematically a positive profitability by arbitrage.
 See https://en.wikipedia.org/wiki/Arbitrage
