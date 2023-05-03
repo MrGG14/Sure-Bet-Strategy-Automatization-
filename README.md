@@ -4,7 +4,7 @@ Proyect whose final goal is to automate betting strategies in different betting 
 
 ## Functionality
 
-By now you can get profitable bets over 1% profitability (can be set to over 0% in code or any other value).
+Now you can get profitable bets over 1% profitability (can be set to over 0% in code or any other value).
 
 In Telegram:
 
