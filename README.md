@@ -4,8 +4,6 @@ Proyect whose final goal is to automate betting strategies in different betting 
 
 ## Functionality
 
-Now you can get profitable bets over 1% profitability (can be set to over 0% in code or any other value).
-
 In Telegram:
 
 1.- Start chat with @raw_data_bot and copy your ID
@@ -16,7 +14,7 @@ In Telegram:
 
 4.-Execute "odd_api.py"
 
-5.- In your telegram chat with @Betsss14_bot you will see all bets
+5.- In your telegram chat with @Betsss14_bot you will see all bets wich profitability is over 1% (can be set to over 0% in code or any other value).
 
 
 
