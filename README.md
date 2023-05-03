@@ -25,3 +25,6 @@ In Telegram:
 2.- No public/free (nor cheap) access to real-time odds from various betting houses.
 
 3.- Unable to have a real-time system based on scrapping various betting houses as the scrapping process is really slow (done on purpose by betting houses to protect themselves).
+
+
+If I had access to real-time odds I would finish this project and  automate the betting process on each betting house.
