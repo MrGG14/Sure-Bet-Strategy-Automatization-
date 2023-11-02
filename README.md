@@ -1,6 +1,6 @@
 # Sure-Bet Strategy Automatization
 
-Proyect whose final goal is to automate betting strategies in different betting houses and guaranteeing mathematically a positive profitability by [arbitrage](https://en.wikipedia.org/wiki/Arbitrage). 
+Project whose final goal is to automate betting strategies in different betting houses and guaranteeing mathematically a positive profitability by [arbitrage](https://en.wikipedia.org/wiki/Arbitrage). 
 
 Odds are obtained through https://the-odds-api.com/, they are supposed to be real-time odds but in practice they aren´t. I chose this one since it has a free memeber plan.
 
